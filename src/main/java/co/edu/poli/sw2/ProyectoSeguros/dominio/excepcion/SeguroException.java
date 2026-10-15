@@ -3,7 +3,7 @@ package co.edu.poli.sw2.ProyectoSeguros.dominio.excepcion;
 /**
  * Excepcion base utilizada por el dominio de seguros.
  *
- * @author Alejandra Cano y Juan Rosero
+ * @author Alejandra Cano 
  */
 public class SeguroException extends RuntimeException {
 

@@ -31,7 +31,7 @@ import javafx.stage.Stage;
  * y finalmente el adaptador de entrada JavaFX.
  * </p>
  *
- * @author Alejandra Cano y Juan Rosero
+ * @author Alejandra Cano 
  */
 public class App extends Application {
 

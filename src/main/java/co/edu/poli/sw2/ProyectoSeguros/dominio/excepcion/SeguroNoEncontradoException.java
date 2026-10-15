@@ -4,7 +4,7 @@ package co.edu.poli.sw2.ProyectoSeguros.dominio.excepcion;
  * Excepcion lanzada cuando el seguro solicitado
  * no existe en persistencia.
  *
- * @author Alejandra Cano y Juan Rosero
+ * @author Alejandra Cano 
  */
 public class SeguroNoEncontradoException extends SeguroException {
 

@@ -8,7 +8,7 @@ import co.edu.poli.sw2.ProyectoSeguros.dominio.modelo.Seguro;
 /**
  * Puerto de entrada encargado de listar seguros.
  *
- * @author Alejandra Cano y Juan Rosero
+ * @author Alejandra Cano 
  */
 public interface ListarSegurosUseCase {
 

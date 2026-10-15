@@ -3,7 +3,7 @@ package co.edu.poli.sw2.ProyectoSeguros.dominio.modelo;
 /**
  * Estados posibles de un seguro.
  *
- * @author Alejandra Cano y Juan Rosero
+ * @author Alejandra Cano 
  */
 public enum EstadoSeguro {
 

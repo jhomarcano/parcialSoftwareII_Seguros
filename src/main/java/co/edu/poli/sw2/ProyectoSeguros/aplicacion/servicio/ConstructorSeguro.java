@@ -13,7 +13,7 @@ import co.edu.poli.sw2.ProyectoSeguros.dominio.modelo.SeguroVida;
  * correspondiente a su tipo. Lo comparten los servicios de crear y
  * modificar, de modo que ambos aplican exactamente las mismas reglas.
  *
- * @author Alejandra Cano y Juan Rosero
+ * @author Alejandra Cano 
  */
 final class ConstructorSeguro {
 

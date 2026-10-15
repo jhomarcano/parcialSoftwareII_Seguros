@@ -44,7 +44,7 @@ import javafx.scene.layout.VBox;
  * crear uno nuevo.
  * </p>
  *
- * @author Alejandra Cano y Juan Rosero
+ * @author Alejandra Cano 
  */
 public class ControlSeguro implements Initializable {
 

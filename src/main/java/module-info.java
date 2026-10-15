@@ -1,7 +1,7 @@
 /**
  * Modulo principal de la aplicacion de gestion de seguros.
  *
- * @author Alejandra Cano y Juan Rosero
+ * @author Alejandra Cano 
  */
 module co.edu.poli.sw2.seguros {
 

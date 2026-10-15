@@ -15,7 +15,7 @@ import co.edu.poli.sw2.ProyectoSeguros.dominio.modelo.Seguro;
  * persistencia, de modo que un dato invalido nunca altera el original.
  * </p>
  *
- * @author Alejandra Cano y Juan Rosero
+ * @author Alejandra Cano 
  */
 public class ModificarSeguroServicio implements ModificarSeguroUseCase {
 

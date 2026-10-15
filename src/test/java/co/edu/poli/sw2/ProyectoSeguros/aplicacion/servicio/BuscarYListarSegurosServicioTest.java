@@ -23,7 +23,7 @@ import co.edu.poli.sw2.ProyectoSeguros.dominio.modelo.SeguroVida;
  * {@link BuscarSeguroServicio} y {@link ListarSegurosServicio}.
  * Usa {@link RepositorioEnMemoria}, por lo que no requiere base de datos.
  *
- * @author Alejandra Cano y Juan Rosero
+ * @author Alejandra Cano 
  */
 class BuscarYListarSegurosServicioTest {
 

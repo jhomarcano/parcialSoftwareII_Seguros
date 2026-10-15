@@ -4,7 +4,7 @@ package co.edu.poli.sw2.ProyectoSeguros.dominio.excepcion;
  * Representa errores relacionados con la conexion
  * o comunicacion con la base de datos.
  *
- * @author Alejandra Cano y Juan Rosero
+ * @author Alejandra Cano 
  */
 public class ConexionBDException extends SeguroException {
 

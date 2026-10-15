@@ -8,7 +8,7 @@ import java.io.Serializable;
  * Los asegurados estan predeterminados en la base de datos: el sistema
  * solo los consulta para asociarlos a un seguro.
  *
- * @author Alejandra Cano y Juan Rosero
+ * @author Alejandra Cano 
  */
 public class Asegurado implements Serializable {
 

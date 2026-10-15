@@ -24,7 +24,7 @@ import co.edu.poli.sw2.ProyectoSeguros.dominio.modelo.Seguro;
  * invalido nunca llegue a la persistencia.
  * </p>
  *
- * @author Alejandra Cano y Juan Rosero
+ * @author Alejandra Cano 
  */
 class RepositorioEnMemoria implements SeguroRepository {
 

@@ -28,7 +28,7 @@ import co.edu.poli.sw2.ProyectoSeguros.dominio.excepcion.ConexionBDException;
  *   <li>Archivo {@code db.properties} en el classpath</li>
  * </ol>
  *
- * @author Alejandra Cano y Juan Rosero
+ * @author Alejandra Cano
  * @see CargadorEnv
  */
 public final class ConexionBD {

@@ -12,7 +12,7 @@ import co.edu.poli.sw2.ProyectoSeguros.dominio.modelo.Seguro;
  * La aplicacion conoce esta interfaz, pero no conoce
  * PostgreSQL ni JDBC.
  *
- * @author Alejandra Cano y Juan Rosero
+ * @author Alejandra Cano 
  */
 public interface SeguroRepository {
 

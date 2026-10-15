@@ -1,0 +1,3 @@
+module:co.edu.poli.sw2.seguros
+co.edu.poli.sw2.ProyectoSeguros.dominio.modelo
+co.edu.poli.sw2.ProyectoSeguros.infraestructura.web

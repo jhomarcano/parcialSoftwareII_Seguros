@@ -13,7 +13,7 @@ import co.edu.poli.sw2.ProyectoSeguros.dominio.modelo.EstadoSeguro;
  * Contiene las reglas de validacion utilizadas por
  * los casos de uso relacionados con seguros.
  *
- * @author Alejandra Cano y Juan Rosero
+ * @author Alejandra Cano 
  */
 public final class ValidadorSeguro {
 

@@ -11,7 +11,7 @@ import java.time.LocalDate;
  * El numero identifica al seguro y no puede cambiarse una vez creado.
  * Cada seguro pertenece a un {@link Asegurado}.
  *
- * @author Alejandra Cano y Juan Rosero
+ * @author Alejandra Cano 
  */
 public abstract class Seguro implements Serializable {
 

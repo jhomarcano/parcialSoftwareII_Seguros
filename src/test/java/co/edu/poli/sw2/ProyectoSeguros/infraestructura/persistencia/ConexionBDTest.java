@@ -24,7 +24,7 @@ import org.junit.jupiter.api.Test;
  * Pruebas estructurales del patron <b>Singleton</b> en {@link ConexionBD}.
  * No abren conexiones, por lo que no requieren PostgreSQL.
  *
- * @author Alejandra Cano y Juan Rosero
+ * @author Alejandra Cano 
  */
 class ConexionBDTest {
 

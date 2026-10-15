@@ -4,7 +4,7 @@ package co.edu.poli.sw2.ProyectoSeguros.dominio.excepcion;
  * Excepcion lanzada cuando un dato del seguro
  * no cumple las reglas de validacion.
  *
- * @author Alejandra Cano y Juan Rosero
+ * @author Alejandra Cano 
  */
 public class SeguroValidacionException extends SeguroException {
 

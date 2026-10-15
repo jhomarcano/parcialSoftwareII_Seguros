@@ -8,7 +8,7 @@ import co.edu.poli.sw2.ProyectoSeguros.dominio.modelo.Seguro;
 /**
  * Servicio encargado de buscar seguros.
  *
- * @author Alejandra Cano y Juan Rosero
+ * @author Alejandra Cano 
  */
 public class BuscarSeguroServicio implements BuscarSeguroUseCase {
 

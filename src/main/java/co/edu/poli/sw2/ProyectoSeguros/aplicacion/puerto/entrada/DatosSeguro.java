@@ -16,7 +16,7 @@ import co.edu.poli.sw2.ProyectoSeguros.dominio.modelo.EstadoSeguro;
  * o la marca (VEHICULO); los demas se ignoran.
  * </p>
  *
- * @author Alejandra Cano y Juan Rosero
+ * @author Alejandra Cano 
  */
 public final class DatosSeguro {
 

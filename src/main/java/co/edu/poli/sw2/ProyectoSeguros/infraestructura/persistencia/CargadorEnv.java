@@ -12,7 +12,7 @@ import java.util.Map;
 /**
  * Lee el archivo .env de la raiz del proyecto (una sola vez).
  *
- * @author Alejandra Cano y Juan Rosero
+ * @author Alejandra Cano 
  */
 final class CargadorEnv {
 

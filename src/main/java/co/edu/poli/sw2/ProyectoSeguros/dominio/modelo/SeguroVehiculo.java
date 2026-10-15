@@ -7,7 +7,7 @@ import java.time.LocalDate;
  * Seguro de vehiculo: registra la marca del vehiculo asegurado. Sus datos
  * propios se guardan en la tabla {@code seguro_vehiculo}.
  *
- * @author Alejandra Cano y Juan Rosero
+ * @author Alejandra Cano 
  * @see Seguro
  */
 public class SeguroVehiculo extends Seguro {

@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"co.edu.poli.sw2.seguros","l":"co.edu.poli.sw2.ProyectoSeguros.dominio.modelo"},{"m":"co.edu.poli.sw2.seguros","l":"co.edu.poli.sw2.ProyectoSeguros.infraestructura.web"}];updateSearchResults();

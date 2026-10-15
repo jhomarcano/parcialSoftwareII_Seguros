@@ -20,7 +20,7 @@ import co.edu.poli.sw2.ProyectoSeguros.dominio.excepcion.SeguroValidacionExcepti
  * Pruebas unitarias de las reglas de negocio de {@link ValidadorSeguro}.
  * No requieren base de datos.
  *
- * @author Alejandra Cano y Juan Rosero
+ * @author Alejandra Cano 
  */
 class ValidadorSeguroTest {
 

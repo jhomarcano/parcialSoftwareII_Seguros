@@ -8,7 +8,7 @@ import co.edu.poli.sw2.ProyectoSeguros.dominio.modelo.Seguro;
 /**
  * Servicio encargado de eliminar un seguro.
  *
- * @author Alejandra Cano y Juan Rosero
+ * @author Alejandra Cano 
  */
 public class EliminarSeguroServicio implements EliminarSeguroUseCase {
 

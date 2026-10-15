@@ -8,7 +8,7 @@ import java.time.LocalDate;
  * con el asegurado. Sus datos propios se guardan en la tabla
  * {@code seguro_vida}.
  *
- * @author Alejandra Cano y Juan Rosero
+ * @author Alejandra Cano 
  * @see Seguro
  */
 public class SeguroVida extends Seguro {

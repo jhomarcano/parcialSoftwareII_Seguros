@@ -32,7 +32,7 @@ import co.edu.poli.sw2.ProyectoSeguros.dominio.modelo.SeguroVida;
  * lo que crea al terminar. Se ejecutan con {@code mvn test -Dtest=*IT}.
  * </p>
  *
- * @author Alejandra Cano y Juan Rosero
+ * @author Alejandra Cano 
  */
 class PostgresSeguroRepositoryIT {
 

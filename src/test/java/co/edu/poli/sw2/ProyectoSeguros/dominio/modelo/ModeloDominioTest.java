@@ -12,7 +12,7 @@ import org.junit.jupiter.api.Test;
 /**
  * Pruebas unitarias de las entidades de dominio. No requieren base de datos.
  *
- * @author Alejandra Cano y Juan Rosero
+ * @author Alejandra Cano 
  */
 class ModeloDominioTest {
 

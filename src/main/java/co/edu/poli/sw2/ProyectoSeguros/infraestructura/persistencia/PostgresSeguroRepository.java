@@ -26,7 +26,7 @@ import co.edu.poli.sw2.ProyectoSeguros.dominio.modelo.SeguroVida;
  * Maneja las tablas {@code seguro} (padre), {@code seguro_vida} y
  * {@code seguro_vehiculo} (hijas) y consulta {@code asegurado}.
  *
- * @author Alejandra Cano y Juan Rosero
+ * @author Alejandra Cano 
  */
 public class PostgresSeguroRepository implements SeguroRepository {
 
