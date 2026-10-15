@@ -1,0 +1,17 @@
+# Compilacion
+/target/
+
+# Credenciales (nunca se suben)
+.env
+src/main/resources/db.properties
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+nbactions.xml
+
+# Sistema operativo / logs
+Thumbs.db
+.DS_Store
+*.log
